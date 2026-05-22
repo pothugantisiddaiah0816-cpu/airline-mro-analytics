@@ -1,0 +1,41 @@
+aircraft_id,tail_number,msn,aircraft_type,airline,mro_base,manufacture_year,total_flight_hours,total_cycles,last_c_check_date,engine_health_score,airframe_condition
+AC001,VT-WV64,MSN-46049,Boeing 737-800,PacificJet,Delhi MRO Hub,2008,34256,16815,29-Jan-24,83,Excellent
+AC002,VT-HR36,MSN-45247,Boeing 737-800,AeroNova,Chennai Base,2009,71237,25230,04-Jan-24,76.4,Poor
+AC003,VT-XJ64,MSN-40463,Boeing 787-9,SkyWing Airlines,Delhi MRO Hub,2012,60392,25391,21-02-2024,63.6,Excellent
+AC004,VT-JB53,MSN-47335,Airbus A320neo,PacificJet,Chennai Base,2021,10695,3517,23-01-2023,71.4,FAIR
+AC005,VT-LJ02,MSN-42601,Boeing 787-9,PacificJet,Mumbai Hangar,2022,14116,7516,24-10-2022,93.8,Poor
+AC006,VT-LS23,MSN-40659,Airbus A320neo,PacificJet,Delhi MRO Hub,2015,53520,22263,20-Dec-23,83.8,Good
+AC007,VT-VD60,MSN-40708,Boeing 787-9,AeroNova,Chennai Base,2019,65589,26824,18-Oct-23,68.6,Fair
+AC008,VT-VC50,MSN-50673,Boeing 737-800,SkyWing Airlines,Hyderabad Tech Centre,2011,57581,25533,04-Aug-23,68.3,Poor
+AC009,VT-CE47,MSN-39363,Airbus A321ceo,TransAtlantic Air,Chennai Base,2022,39718,19494,06-07-2023,76.7,good
+AC010,VT-IS04,MSN-39065,Airbus A321ceo,AeroNova,Mumbai Hangar,2013,71784,27201,31-05-2024,84.5,FAIR
+AC011,VT-WG39,MSN-55216,Airbus A321ceo,SkyWing Airlines,Delhi MRO Hub,2017,55019,19558,15-Sep-22,86.5,Excellent
+AC012,VT-AJ96,MSN-52293,Boeing 787-9,PacificJet,Hyderabad Tech Centre,2020,19621,8534,04-Jan-22,97.9,Good
+AC013,VT-EF98,MSN-49558,Boeing 787-9,SkyWing Airlines,Chennai Base,2022,71540,25232,20-02-2024,97.2,good
+AC014,VT-NT60,MSN-62021,Boeing 737-800,PacificJet,Mumbai Hangar,2017,7552,3794,01-05-2024,62.3,good
+AC015,VT-BW38,MSN-34535,Boeing 737-800,TransAtlantic Air,Mumbai Hangar,2009,74822,24121,02-May-23,70.3,good
+AC016,VT-EL53,MSN-50428,Airbus A321ceo,AeroNova,Bangalore Facility,2011,57296,16408,25-Mar-23,64.7,Good
+AC017,VT-EV71,MSN-45080,Boeing 737-800,SkyWing Airlines,Mumbai Hangar,2013,82128,37770,09-10-2023,62.6,Excellent
+AC018,VT-EE31,MSN-48250,Airbus A320neo,AeroNova,Bangalore Facility,2009,68624,31708,08-Aug-23,69.5,Poor
+AC019,VT-NI99,MSN-36352,Airbus A321ceo,SkyWing Airlines,Delhi MRO Hub,2011,61498,25599,03-Jun-24,86.3,FAIR
+AC020,VT-DX81,MSN-52236,Boeing 737-800,TransAtlantic Air,Bangalore Facility,2008,19322,8692,05-04-2023,67.2,Poor
+AC021,VT-CI21,MSN-59041,Boeing 737 MAX,SkyWing Airlines,Delhi MRO Hub,2021,77132,39224,08-07-2023,96.1,Good
+AC022,VT-ZJ91,MSN-61546,Boeing 737 MAX,TransAtlantic Air,Delhi MRO Hub,2014,33016,10096,18-06-2022,98.4,Fair
+AC023,VT-VR90,MSN-61894,Airbus A321ceo,TransAtlantic Air,Chennai Base,2012,25289,11912,01-Mar-22,62.4,Fair
+AC024,VT-MW92,MSN-62954,Boeing 737-800,TransAtlantic Air,Delhi MRO Hub,2008,74615,36087,24-03-2022,83.2,FAIR
+AC025,VT-DN77,MSN-46135,Boeing 737 MAX,SkyWing Airlines,Chennai Base,2014,80880,28775,06-Mar-23,82,Fair
+AC026,VT-ZE22,MSN-45642,Airbus A320neo,PacificJet,Hyderabad Tech Centre,2011,39814,16100,04-11-2022,96.2,Excellent
+AC027,VT-GJ64,MSN-34801,Boeing 737-800,SkyWing Airlines,Mumbai Hangar,2015,75468,34900,24-12-2022,74.4,Good
+AC028,VT-ER95,MSN-64664,Airbus A321ceo,PacificJet,Mumbai Hangar,2021,6025,2052,11-11-2023,70.3,Excellent
+AC029,VT-OZ68,MSN-48465,Boeing 787-9,PacificJet,Hyderabad Tech Centre,2010,84276,39051,05-Dec-23,79.7,Fair
+AC030,VT-VI82,MSN-48132,Boeing 737-800,TransAtlantic Air,Mumbai Hangar,2009,10778,5967,15-10-2023,88.9,good
+AC031,VT-RT79,MSN-37331,Airbus A321ceo,SkyWing Airlines,Delhi MRO Hub,2016,14862,4362,02-Jun-22,92.5,good
+AC032,VT-VJ62,MSN-38352,Boeing 787-9,TransAtlantic Air,Hyderabad Tech Centre,2010,10482,4510,26-03-2024,68.2,Good
+AC033,VT-OT45,MSN-40128,Boeing 737-800,TransAtlantic Air,Bangalore Facility,2013,36029,11018,10-04-2024,61,FAIR
+AC034,VT-HD06,MSN-46263,Airbus A320neo,TransAtlantic Air,Bangalore Facility,2020,39970,19303,27-01-2023,68.7,Poor
+AC035,VT-YW47,MSN-44609,Airbus A320neo,AeroNova,Hyderabad Tech Centre,2012,8101,2772,13-10-2022,73.7,good
+AC036,VT-LG57,MSN-31808,Airbus A321ceo,PacificJet,Delhi MRO Hub,2018,20118,6113,18-08-2023,64.2,Poor
+AC037,VT-WX63,MSN-58599,Airbus A320neo,PacificJet,Hyderabad Tech Centre,2019,84457,24316,14-08-2023,61.7,Poor
+AC038,VT-GY99,MSN-53869,Boeing 737-800,AeroNova,Hyderabad Tech Centre,2016,61531,32064,05-Dec-22,85.9,Excellent
+AC039,VT-JX23,MSN-56764,Airbus A320neo,PacificJet,Bangalore Facility,2016,47753,19223,11-05-2022,85.9,Poor
+AC040,VT-GD19,MSN-56612,Boeing 737 MAX,PacificJet,Chennai Base,2017,76819,23876,04-08-2022,83.7,Fair

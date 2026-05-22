@@ -1,0 +1,61 @@
+technician_id,name,grade,mro_base,annual_salary_inr,license_type,years_experience,is_active
+TEC001,Michele Hansen,L2 Technician,Delhi MRO Hub,736008,EASA Part-66 B1,18,True
+TEC002,Meagan Evans,L1 Junior,Bangalore Facility,396714,DGCA B2,4,True
+TEC003,Grace Oliver,L1 Junior,Mumbai Hangar,404266,DGCA B2,27,False
+TEC004,Melanie Gray,L3 Senior,Delhi MRO Hub,967848,DGCA B1.1,1,True
+TEC005,Robert Stanton,L2 Technician,Bangalore Facility,663761,DGCA B1.1,28,True
+TEC006,Melinda Kerr,L1 Junior,Delhi MRO Hub,490847,DGCA B1.1,6,False
+TEC007,Richard Bell MD,L4 Inspector,Bangalore Facility,1207728,EASA Part-66 B1,22,False
+TEC008,Joshua Nicholson,L2 Technician,Hyderabad Tech Centre,686286,DGCA B2,9,True
+TEC009,Travis Nunez,L4 Inspector,Mumbai Hangar,1209083,FAA A&P,20,True
+TEC010,Eric Alexander,L3 Senior,Bangalore Facility,1008001,FAA A&P,16,True
+TEC011,James Morris,L1 Junior,Hyderabad Tech Centre,470405,DGCA B2,14,True
+TEC012,Bianca Zavala,L2 Technician,Chennai Base,635119,EASA Part-66 B1,26,True
+TEC013,Evan Frederick,L4 Inspector,Chennai Base,1327055,DGCA C,19,True
+TEC014,Brittany Harper,L4 Inspector,Hyderabad Tech Centre,1247137,DGCA B1.1,11,True
+TEC015,John Barnett,L1 Junior,Hyderabad Tech Centre,385359,EASA Part-66 B1,17,True
+TEC016,Janice Horton,L2 Technician,Mumbai Hangar,656249,DGCA B2,22,True
+TEC017,Wesley Harris,L3 Senior,Chennai Base,914656,DGCA B2,19,False
+TEC018,Manuel Rush,L3 Senior,Mumbai Hangar,946163,DGCA B2,19,True
+TEC019,Susan Young,L3 Senior,Chennai Base,907394,DGCA C,19,True
+TEC020,Ivan Torres,L2 Technician,Bangalore Facility,772114,DGCA C,6,False
+TEC021,Jeffrey Rodriguez,L1 Junior,Delhi MRO Hub,384724,DGCA B2,20,True
+TEC022,Justin Garcia,L1 Junior,Chennai Base,495301,DGCA B1.1,11,True
+TEC023,Stephen Robinson,L2 Technician,Hyderabad Tech Centre,676520,DGCA C,2,True
+TEC024,Nicholas Evans,L2 Technician,Chennai Base,667133,DGCA B1.1,28,True
+TEC025,Stephen Johnson,L1 Junior,Hyderabad Tech Centre,473703,FAA A&P,4,True
+TEC026,Brandon Fernandez,L3 Senior,Hyderabad Tech Centre,935769,DGCA B2,24,False
+TEC027,Matthew Chavez,L4 Inspector,Hyderabad Tech Centre,1245666,FAA A&P,23,True
+TEC028,Dawn Chang MD,L2 Technician,Chennai Base,675967,EASA Part-66 B1,10,True
+TEC029,Sherry Good,L2 Technician,Mumbai Hangar,630471,FAA A&P,13,True
+TEC030,Erik Henderson,L2 Technician,Chennai Base,713418,FAA A&P,8,True
+TEC031,Edward Gregory,L4 Inspector,Mumbai Hangar,1286813,DGCA B1.1,8,True
+TEC032,Gerald West,L3 Senior,Mumbai Hangar,923258,DGCA C,15,True
+TEC033,Elizabeth Kelly,L3 Senior,Mumbai Hangar,965415,DGCA B1.1,12,True
+TEC034,Teresa Russo,L1 Junior,Delhi MRO Hub,382621,EASA Part-66 B1,15,False
+TEC035,Mrs. Abigail Berry,L2 Technician,Bangalore Facility,759258,EASA Part-66 B1,12,False
+TEC036,Matthew Holden,L1 Junior,Bangalore Facility,429135,DGCA B2,15,True
+TEC037,Tabitha Hernandez,L1 Junior,Hyderabad Tech Centre,375263,DGCA C,9,True
+TEC038,William Rose,L1 Junior,Hyderabad Tech Centre,414592,EASA Part-66 B1,6,True
+TEC039,Jesse Chapman,L1 Junior,Hyderabad Tech Centre,496546,DGCA B1.1,14,True
+TEC040,Brenda Tanner,L4 Inspector,Mumbai Hangar,1214039,DGCA B1.1,11,True
+TEC041,Christopher Cole,L2 Technician,Bangalore Facility,775257,FAA A&P,9,True
+TEC042,John Pena,L3 Senior,Mumbai Hangar,925143,DGCA B1.1,13,False
+TEC043,Miss Amy Wheeler,L2 Technician,Delhi MRO Hub,724589,DGCA B1.1,14,True
+TEC044,Matthew Brennan,L3 Senior,Chennai Base,1025915,DGCA B2,4,True
+TEC045,Theresa Jacobs,L2 Technician,Mumbai Hangar,706496,DGCA B1.1,16,True
+TEC046,Daniel Andrews,L3 Senior,Bangalore Facility,1023455,EASA Part-66 B1,22,True
+TEC047,Maria Ramirez,L1 Junior,Chennai Base,471587,DGCA B2,12,False
+TEC048,Rachel Hutchinson,L3 Senior,Mumbai Hangar,1016857,DGCA B1.1,9,False
+TEC049,Jason Fry,L4 Inspector,Hyderabad Tech Centre,1259308,DGCA C,19,True
+TEC050,Gabriel Harris,L2 Technician,Delhi MRO Hub,652467,DGCA C,26,False
+TEC051,Chad Willis,L2 Technician,Chennai Base,645986,EASA Part-66 B1,27,False
+TEC052,Luis Nguyen,L4 Inspector,Chennai Base,1261772,EASA Part-66 B1,10,True
+TEC053,Cheryl Smith,L4 Inspector,Delhi MRO Hub,1331622,FAA A&P,17,True
+TEC054,Carla Carr,L1 Junior,Bangalore Facility,415319,DGCA B2,7,True
+TEC055,Ricky Johnson,L2 Technician,Delhi MRO Hub,740985,DGCA B1.1,22,False
+TEC056,Jimmy Stephens,L2 Technician,Mumbai Hangar,697603,DGCA C,24,True
+TEC057,Eric Johnson,L1 Junior,Bangalore Facility,515847,EASA Part-66 B1,18,True
+TEC058,Rose Allen,L3 Senior,Chennai Base,1020103,DGCA B1.1,26,False
+TEC059,Mary Meyers,L1 Junior,Bangalore Facility,409227,DGCA B2,19,True
+TEC060,Breanna Ibarra,L1 Junior,Chennai Base,396474,DGCA C,28,True

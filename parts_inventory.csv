@@ -1,0 +1,301 @@
+part_id,part_number,description,category,unit_cost_usd,qty_on_hand,reorder_level,supplier,lead_time_days,is_rotable,shelf_life_months
+PT0001,PN-APU-38010,APU Strategize Open-Source Roi,APU,79633.13,172,27,"Morris, Torres and Shaffer",97,True,
+PT0002,PN-AVI-92960,Avionics Engage Killer Convergence,Avionics,51224.8,169,26,Valencia-Freeman,33,False,12.0
+PT0003,PN-LAN-42092,Landing Gear Unleash Scalable Metrics,Landing Gear,26694.24,11,26,Gonzalez-Clark,12,False,36.0
+PT0004,PN-LAN-74799,Landing Gear Empower End-To-End Eyeballs,Landing Gear,129358.6,98,24,"Williams, Lopez and Cross",3,True,36.0
+PT0005,PN-LAN-77889,Landing Gear Mesh Proactive Niches,Landing Gear,31824.43,178,29,Alvarado-Martinez,18,False,12.0
+PT0006,PN-APU-88047,APU Generate 24/7 Paradigms,APU,120230.48,143,16,Lane LLC,81,False,60.0
+PT0007,PN-APU-72216,APU Re-Contextualize Enterprise Relationship,APU,161518.02,190,28,"Knight, Green and Bird",84,False,60.0
+PT0008,PN-APU-67654,APU Embrace Sticky Convergence,APU,112889.37,70,10,"Wolfe, Parsons and Moore",45,False,60.0
+PT0009,PN-AVI-60205,Avionics Grow Vertical Mindshare,Avionics,25079.66,59,4,Anderson and Sons,56,False,24.0
+PT0010,PN-APU-65069,APU Target Efficient Interfaces,APU,74956.21,52,24,Yoder PLC,5,False,36.0
+PT0011,PN-ENG-61116,Engine Enable Mission-Critical Users,Engine,169704.95,76,15,"Harris, Smith and Carroll",71,True,36.0
+PT0012,PN-LAN-13804,Landing Gear Monetize End-To-End Metrics,Landing Gear,49273.77,124,27,Kelly Inc,54,True,36.0
+PT0013,PN-HYD-13534,Hydraulics Drive Ubiquitous Metrics,Hydraulics,176533.81,136,23,Villanueva PLC,6,True,
+PT0014,PN-CAB-33819,Cabin Interior Maximize Leading-Edge Web-Readiness,Cabin Interior,24598.77,118,8,"Freeman, Evans and Todd",61,False,24.0
+PT0015,PN-CAB-43065,Cabin Interior Aggregate 24/365 Technologies,Cabin Interior,50230.54,107,25,Hardy Inc,72,True,24.0
+PT0016,PN-LAN-95426,Landing Gear Innovate 24/365 Relationships,Landing Gear,,199,9,Klein-Mann,28,True,60.0
+PT0017,PN-HYD-97747,Hydraulics Redefine Leading-Edge Architectures,Hydraulics,43090.38,121,16,Daniels Inc,92,False,24.0
+PT0018,PN-HYD-25012,Hydraulics Scale Magnetic Experiences,Hydraulics,109139.51,191,11,Rios PLC,16,True,24.0
+PT0019,PN-CAB-35995,Cabin Interior Orchestrate Bleeding-Edge Supply-Chains,Cabin Interior,71518.47,183,22,Tate-Morgan,34,True,
+PT0020,PN-FUS-25866,Fuselage Drive Customized Metrics,Fuselage,153082.72,153,3,"Lewis, Aguilar and Aguirre",47,False,
+PT0021,PN-ELE-54725,Electrical Architect Best-Of-Breed Architectures,Electrical,12598.42,165,17,Gibson Inc,16,False,24.0
+PT0022,PN-APU-33086,APU Matrix Leading-Edge Supply-Chains,APU,127374.09,111,10,Martin and Sons,81,False,36.0
+PT0023,PN-CAB-45179,Cabin Interior Visualize 24/365 Methodologies,Cabin Interior,148667.08,151,4,"Ingram, Mcintyre and Rios",38,False,12.0
+PT0024,PN-APU-59674,APU Target Bleeding-Edge Systems,APU,102658.97,171,12,"Bradshaw, Woods and Burns",26,False,12.0
+PT0025,PN-ELE-46655,Electrical Orchestrate Granular Web Services,Electrical,143650.26,87,10,Garcia LLC,74,True,60.0
+PT0026,PN-LAN-63271,Landing Gear Redefine Next-Generation Architectures,Landing Gear,15593.21,184,24,"Mckenzie, Matthews and Montes",63,False,36.0
+PT0027,PN-ENG-63005,Engine Brand B2B Communities,Engine,16930.99,56,20,Davidson-Schroeder,50,False,60.0
+PT0028,PN-ELE-82140,Electrical Extend Granular Web-Readiness,Electrical,76705.59,190,10,"Smith, Watts and Morgan",42,False,12.0
+PT0029,PN-AVI-25670,Avionics Cultivate Synergistic Platforms,Avionics,129886.92,80,24,Price-Jensen,26,True,12.0
+PT0030,PN-APU-78765,APU Drive Revolutionary Architectures,APU,49914.63,150,28,Patterson-Howard,27,False,12.0
+PT0031,PN-ELE-80010,Electrical Maximize Best-Of-Breed Users,Electrical,,3,3,Carpenter PLC,73,False,
+PT0032,PN-HYD-74340,Hydraulics Reinvent Real-Time Applications,Hydraulics,,192,11,Underwood LLC,63,False,36.0
+PT0033,PN-ELE-43092,Electrical Transition Intuitive Users,Electrical,33348.59,13,28,Page Inc,11,False,36.0
+PT0034,PN-AVI-17026,Avionics Seize Robust E-Commerce,Avionics,103948.4,175,11,Perez Inc,13,True,
+PT0035,PN-CAB-39581,Cabin Interior Drive Web-Enabled E-Markets,Cabin Interior,109215.91,158,16,"Roberts, Skinner and Vincent",41,False,24.0
+PT0036,PN-ENG-23006,Engine Re-Contextualize User-Centric Web Servic,Engine,109811.64,189,8,Alvarado Group,36,True,12.0
+PT0037,PN-LAN-30517,Landing Gear Iterate Dynamic Info-Mediaries,Landing Gear,31451.68,19,21,"Huang, Nash and Patel",63,False,
+PT0038,PN-LAN-69510,Landing Gear Integrate Dot-Com Architectures,Landing Gear,52001.26,72,10,Blair Inc,103,True,36.0
+PT0039,PN-AVI-29528,Avionics Enable Synergistic Convergence,Avionics,98112.32,165,4,Wilson-Vasquez,10,True,24.0
+PT0040,PN-FUS-49857,Fuselage Monetize Interactive E-Services,Fuselage,79159.79,119,18,May PLC,72,False,36.0
+PT0041,PN-AVI-52247,Avionics Extend Holistic E-Commerce,Avionics,,110,9,"Warren, Jackson and Payne",89,True,
+PT0042,PN-FUS-32962,Fuselage Strategize Seamless Architectures,Fuselage,103809.21,195,10,Peters-Barrett,26,False,
+PT0043,PN-APU-55607,APU Disintermediate Intuitive Infrastructure,APU,174436.13,120,5,"Johnson, Campos and Delgado",112,True,24.0
+PT0044,PN-CAB-96846,Cabin Interior Integrate Dynamic Technologies,Cabin Interior,124922.53,73,19,Brown Ltd,7,False,
+PT0045,PN-ELE-62976,Electrical Facilitate Strategic Initiatives,Electrical,45581.31,29,2,Cook Inc,87,False,36.0
+PT0046,PN-ENG-91609,Engine Brand One-To-One Users,Engine,33927.34,92,26,Allen-Hartman,9,True,24.0
+PT0047,PN-HYD-73532,Hydraulics Benchmark Rich Roi,Hydraulics,166995.56,112,21,Friedman and Sons,105,True,
+PT0048,PN-HYD-82384,Hydraulics Repurpose Cross-Platform Markets,Hydraulics,56072.87,3,28,"Oconnor, Jones and Clark",119,True,36.0
+PT0049,PN-AVI-75323,Avionics Whiteboard 24/365 Action-Items,Avionics,116658.2,39,24,Butler Group,37,False,36.0
+PT0050,PN-APU-28958,APU Optimize E-Business E-Tailers,APU,44022.82,141,18,"Cameron, Thompson and Garcia",98,True,
+PT0051,PN-FUS-54548,Fuselage Re-Contextualize Robust Channels,Fuselage,139126.99,106,28,Holmes LLC,3,False,
+PT0052,PN-FUS-96499,Fuselage Harness 24/7 Content,Fuselage,150778.17,148,19,"Hayes, Sanchez and Burns",64,False,24.0
+PT0053,PN-CAB-34727,Cabin Interior Visualize Front-End Functionalities,Cabin Interior,82070.96,82,14,"Shaw, Kidd and Adams",32,False,
+PT0054,PN-ELE-59968,Electrical Extend Revolutionary Niches,Electrical,134097.99,180,28,Roach LLC,86,True,36.0
+PT0055,PN-ENG-53515,Engine Extend Impactful Web Services,Engine,22899.08,151,16,"Ruiz, Reid and Robbins",15,False,
+PT0056,PN-HYD-30232,Hydraulics Synergize World-Class Mindshare,Hydraulics,73914.16,167,10,Bush-Bryant,46,False,
+PT0057,PN-AVI-79942,Avionics Integrate Front-End Bandwidth,Avionics,153347.4,172,24,"Thomas, Brown and Clark",116,False,60.0
+PT0058,PN-ENG-92727,Engine Seize Web-Enabled Paradigms,Engine,111219.21,60,9,Stewart-Thompson,98,True,36.0
+PT0059,PN-AVI-23173,Avionics Target Vertical Schemas,Avionics,136914.47,180,30,Heath Group,6,True,24.0
+PT0060,PN-ENG-66450,Engine Matrix World-Class Niches,Engine,52947.53,95,20,Olson Ltd,90,True,12.0
+PT0061,PN-HYD-91226,Hydraulics Utilize Plug-And-Play E-Services,Hydraulics,14398.51,97,20,"Mccarty, Rodriguez and Riley",21,True,36.0
+PT0062,PN-FUS-11231,Fuselage E-Enable B2C Platforms,Fuselage,82830.78,170,11,"Sloan, Day and Dyer",89,True,
+PT0063,PN-APU-49210,APU Orchestrate Visionary Initiatives,APU,170153.37,150,10,Mckenzie Ltd,61,False,12.0
+PT0064,PN-CAB-41091,Cabin Interior Utilize Distributed Communities,Cabin Interior,153629.72,27,11,Vasquez Group,92,False,
+PT0065,PN-CAB-99889,Cabin Interior Scale 24/365 Applications,Cabin Interior,49551.57,144,21,Harris Inc,98,False,24.0
+PT0066,PN-LAN-38705,Landing Gear Deploy Innovative Models,Landing Gear,109350.29,90,23,"Hodges, Smith and Perez",99,True,
+PT0067,PN-AVI-15167,Avionics Grow Enterprise Relationships,Avionics,162631.99,165,20,Lawson Inc,49,True,
+PT0068,PN-FUS-33021,Fuselage Drive Impactful Experiences,Fuselage,58944.1,106,30,Simon-Pearson,49,False,12.0
+PT0069,PN-FUS-48684,Fuselage Orchestrate World-Class Relationships,Fuselage,164546.0,123,5,Garcia LLC,62,True,12.0
+PT0070,PN-LAN-98395,Landing Gear Grow Collaborative Mindshare,Landing Gear,154853.28,185,27,"Smith, Kim and Cox",74,False,
+PT0071,PN-CAB-26199,Cabin Interior Envisioneer Enterprise Users,Cabin Interior,2702.57,137,23,Pollard Group,36,False,
+PT0072,PN-ELE-71797,Electrical Drive Robust Networks,Electrical,19680.63,59,19,Andrews Group,44,True,
+PT0073,PN-AVI-49608,Avionics Transform Scalable Content,Avionics,114445.63,118,3,Stewart PLC,7,False,36.0
+PT0074,PN-AVI-27781,Avionics Matrix Frictionless Action-Items,Avionics,17675.12,137,25,"Payne, Green and Wise",92,False,60.0
+PT0075,PN-HYD-22978,Hydraulics Grow Viral Web-Readiness,Hydraulics,159397.4,167,10,Smith-Richard,7,False,12.0
+PT0076,PN-APU-57537,APU Target World-Class Mindshare,APU,80156.32,60,19,Pollard Inc,118,False,
+PT0077,PN-CAB-69600,Cabin Interior Incentivize 24/7 Experiences,Cabin Interior,49803.48,31,22,Jones Inc,79,True,
+PT0078,PN-ELE-84000,Electrical Harness Distributed Content,Electrical,43993.69,32,19,Carson-Reyes,29,True,12.0
+PT0079,PN-ELE-10371,Electrical Implement Cross-Platform Schemas,Electrical,139431.47,152,6,Brown-Brandt,72,False,12.0
+PT0080,PN-AVI-27275,Avionics Extend Rich Mindshare,Avionics,119058.16,6,9,Patel Group,78,False,
+PT0081,PN-HYD-65176,Hydraulics Redefine Global Deliverables,Hydraulics,47913.08,32,17,Montes Ltd,60,False,60.0
+PT0082,PN-AVI-90623,Avionics Extend Integrated Solutions,Avionics,81470.57,56,29,Wolfe Inc,87,False,36.0
+PT0083,PN-ENG-62640,Engine Productize Leading-Edge Mindshare,Engine,11136.41,122,24,"Brooks, Johnson and Rodriguez",119,False,
+PT0084,PN-AVI-18609,Avionics Mesh Enterprise Models,Avionics,58115.71,37,20,Henderson Ltd,73,False,36.0
+PT0085,PN-FUS-66387,Fuselage Target Dynamic Solutions,Fuselage,81778.03,154,29,"Jenkins, Ellis and Friedman",86,True,36.0
+PT0086,PN-APU-54424,APU Engineer Back-End Roi,APU,159878.77,105,25,Hamilton-Smith,15,False,36.0
+PT0087,PN-ELE-30006,Electrical Generate End-To-End Deliverables,Electrical,119786.39,95,4,"Robbins, Rubio and Hamilton",109,True,
+PT0088,PN-CAB-58843,Cabin Interior Iterate User-Centric Schemas,Cabin Interior,17562.28,189,20,"Smith, Wilson and Green",74,False,
+PT0089,PN-AVI-65435,Avionics Generate Front-End Platforms,Avionics,74063.39,170,11,Williams-Bryant,79,False,24.0
+PT0090,PN-AVI-30280,Avionics Empower Cross-Media Models,Avionics,104109.75,54,5,Carney and Sons,47,False,
+PT0091,PN-FUS-83526,Fuselage Drive 24/365 Communities,Fuselage,103423.18,109,21,Schultz Group,89,True,60.0
+PT0092,PN-FUS-50499,Fuselage Facilitate Innovative Relationships,Fuselage,5405.78,69,7,Lawson-Wolf,114,True,60.0
+PT0093,PN-CAB-92991,Cabin Interior Generate World-Class Initiatives,Cabin Interior,12711.46,189,18,Jackson-Moses,30,False,36.0
+PT0094,PN-APU-50846,APU Enhance Real-Time Info-Mediaries,APU,61493.1,94,20,Mckay and Sons,79,True,
+PT0095,PN-HYD-16522,Hydraulics Streamline Leading-Edge Partnerships,Hydraulics,28502.3,158,23,Barker-Walters,57,False,60.0
+PT0096,PN-APU-77154,APU Extend Vertical Mindshare,APU,74670.24,55,11,Harper-Murray,89,False,60.0
+PT0097,PN-FUS-88554,Fuselage Aggregate Seamless E-Commerce,Fuselage,8366.04,101,8,Shannon and Sons,101,True,24.0
+PT0098,PN-FUS-75193,Fuselage Transition Sticky E-Tailers,Fuselage,59196.4,1,14,Payne-Webster,71,True,60.0
+PT0099,PN-ELE-15544,Electrical Aggregate Innovative Vortals,Electrical,13159.17,189,4,Robertson-Knight,113,False,60.0
+PT0100,PN-CAB-93904,Cabin Interior Deliver Next-Generation Web-Readiness,Cabin Interior,103297.26,181,2,Mercer Inc,44,True,60.0
+PT0101,PN-APU-21551,APU Iterate Strategic Action-Items,APU,149798.26,92,15,Taylor Inc,78,False,60.0
+PT0102,PN-AVI-54500,Avionics Facilitate Virtual E-Markets,Avionics,71358.85,79,4,Walker PLC,68,True,60.0
+PT0103,PN-LAN-56019,Landing Gear Re-Contextualize Compelling Synergies,Landing Gear,163084.91,89,28,Larsen-Diaz,21,True,
+PT0104,PN-HYD-88957,Hydraulics Redefine Compelling Supply-Chains,Hydraulics,46223.09,44,4,"Armstrong, Gonzalez and Kaiser",25,False,36.0
+PT0105,PN-APU-94278,APU Brand Rich Action-Items,APU,122667.8,144,29,"Sawyer, Smith and Jones",83,False,12.0
+PT0106,PN-APU-92756,APU Re-Contextualize Customized Markets,APU,12477.87,113,3,Jones-Brown,48,True,24.0
+PT0107,PN-APU-58331,APU Seize Strategic Supply-Chains,APU,81454.11,14,29,Williams-Garcia,112,True,60.0
+PT0108,PN-CAB-15376,Cabin Interior Engage Turn-Key Platforms,Cabin Interior,83395.56,141,22,Williams-Marquez,27,False,60.0
+PT0109,PN-APU-69050,APU Syndicate End-To-End Eyeballs,APU,90345.84,15,12,"Graham, Daniel and Green",94,True,60.0
+PT0110,PN-HYD-67377,Hydraulics Deliver Dynamic Infrastructures,Hydraulics,7237.75,181,21,"Henderson, Carroll and Bradford",23,False,24.0
+PT0111,PN-FUS-54350,Fuselage Grow Real-Time Communities,Fuselage,69857.5,198,22,"Silva, Sosa and Jones",85,False,
+PT0112,PN-ELE-60667,Electrical Leverage Intuitive Technologies,Electrical,17192.17,173,23,"Fritz, Potter and Johnson",119,True,24.0
+PT0113,PN-AVI-55851,Avionics Unleash Sticky Deliverables,Avionics,104976.56,36,23,Jenkins LLC,53,True,60.0
+PT0114,PN-AVI-94343,Avionics Embrace Collaborative Channels,Avionics,55862.82,96,23,Sandoval Group,92,True,
+PT0115,PN-CAB-57526,Cabin Interior Streamline Enterprise Action-Items,Cabin Interior,91626.23,4,12,Parker-Galvan,101,False,12.0
+PT0116,PN-LAN-20114,Landing Gear Incentivize Vertical Bandwidth,Landing Gear,179995.8,39,18,Perry-Carter,101,True,
+PT0117,PN-ELE-27176,Electrical Evolve Extensible Platforms,Electrical,157775.42,158,7,Brown and Sons,109,True,
+PT0118,PN-APU-98652,APU Visualize World-Class Architectures,APU,8055.9,93,21,Washington Group,39,False,12.0
+PT0119,PN-LAN-71474,Landing Gear Unleash Wireless Bandwidth,Landing Gear,55842.33,200,23,"Roberts, Green and Blair",76,False,36.0
+PT0120,PN-FUS-79135,Fuselage Productize Open-Source Schemas,Fuselage,140106.7,128,8,"Bates, Wheeler and Proctor",105,True,24.0
+PT0121,PN-ENG-82684,Engine Visualize Cross-Media Niches,Engine,115483.99,95,18,Ramirez PLC,111,True,24.0
+PT0122,PN-AVI-68893,Avionics Utilize One-To-One Metrics,Avionics,137408.41,69,15,Jones-Martin,14,True,36.0
+PT0123,PN-ELE-16980,Electrical Utilize Turn-Key Deliverables,Electrical,167498.85,106,14,Davis-Todd,13,False,12.0
+PT0124,PN-ENG-95191,Engine Orchestrate Customized Paradigms,Engine,57499.54,25,3,Stephens-Wall,39,False,
+PT0125,PN-HYD-68799,Hydraulics Leverage 24/365 Initiatives,Hydraulics,136639.64,120,2,"Turner, Shaffer and Johnson",35,True,12.0
+PT0126,PN-CAB-41147,Cabin Interior Syndicate 24/7 Experiences,Cabin Interior,,73,15,"Anderson, Brewer and Gutierrez",84,False,
+PT0127,PN-AVI-88215,Avionics Deploy Granular Communities,Avionics,150636.45,127,20,"Holmes, Rogers and Smith",33,True,24.0
+PT0128,PN-CAB-41531,Cabin Interior Productize Open-Source Bandwidth,Cabin Interior,481.27,90,23,"Goodman, Johns and Keller",13,False,
+PT0129,PN-ENG-15706,Engine Target Open-Source Convergence,Engine,70403.58,120,10,Butler LLC,98,True,24.0
+PT0130,PN-AVI-96127,Avionics Redefine Transparent Solutions,Avionics,62195.49,187,25,Perkins-Blair,99,False,12.0
+PT0131,PN-ENG-94252,Engine Optimize Global Interfaces,Engine,63543.37,86,16,Case-Jones,92,False,
+PT0132,PN-HYD-69988,Hydraulics Syndicate Rich Initiatives,Hydraulics,146107.28,16,27,Flynn Inc,28,True,24.0
+PT0133,PN-FUS-72049,Fuselage Deliver Back-End Bandwidth,Fuselage,92865.97,139,8,Gibson-Bennett,39,False,
+PT0134,PN-ELE-67272,Electrical Matrix Holistic Action-Items,Electrical,49324.35,94,30,Adams-Huynh,52,False,12.0
+PT0135,PN-APU-78062,APU Benchmark Cross-Media Bandwidth,APU,124633.91,94,15,Williams-Williamson,13,False,60.0
+PT0136,PN-HYD-23447,Hydraulics Innovate Next-Generation Functionalities,Hydraulics,98276.3,82,11,Ellis-Martin,60,False,12.0
+PT0137,PN-APU-56210,APU E-Enable Holistic Solutions,APU,63408.15,10,22,Watson-Davis,104,True,
+PT0138,PN-CAB-99051,Cabin Interior Embrace Strategic E-Markets,Cabin Interior,,191,29,Sims Ltd,80,False,
+PT0139,PN-HYD-94562,Hydraulics Incubate World-Class E-Markets,Hydraulics,12288.56,199,20,Young-Jimenez,7,True,
+PT0140,PN-APU-68188,APU Maximize Scalable Methodologies,APU,170798.47,95,18,Keller-Carpenter,49,False,24.0
+PT0141,PN-FUS-13396,Fuselage Strategize Clicks-And-Mortar Users,Fuselage,45080.18,29,14,Blackburn-Watkins,119,True,24.0
+PT0142,PN-FUS-90199,Fuselage Envisioneer Scalable Partnerships,Fuselage,126786.0,54,17,"Smith, Lopez and Greene",28,True,12.0
+PT0143,PN-AVI-68341,Avionics Incubate Out-Of-The-Box Mindshare,Avionics,81477.27,182,29,Jones LLC,43,False,
+PT0144,PN-AVI-49315,Avionics Monetize Transparent Vortals,Avionics,99089.49,74,24,White-Henderson,84,True,24.0
+PT0145,PN-LAN-28202,Landing Gear Integrate Ubiquitous E-Services,Landing Gear,22020.97,51,13,"Lewis, Simpson and Stewart",73,False,36.0
+PT0146,PN-HYD-18617,Hydraulics Evolve Out-Of-The-Box Networks,Hydraulics,110228.32,22,25,Robinson Ltd,64,False,36.0
+PT0147,PN-AVI-94192,Avionics Synthesize Transparent Roi,Avionics,22733.76,81,18,Montgomery-Jacobson,47,True,60.0
+PT0148,PN-HYD-66704,Hydraulics Morph Seamless E-Tailers,Hydraulics,138247.14,33,28,Willis-Glenn,18,True,24.0
+PT0149,PN-HYD-39552,Hydraulics Envisioneer Back-End Schemas,Hydraulics,29321.66,181,30,Osborn PLC,39,True,24.0
+PT0150,PN-LAN-45972,Landing Gear Engineer Sticky Methodologies,Landing Gear,114383.27,141,19,Simon-Bartlett,14,True,60.0
+PT0151,PN-HYD-89316,Hydraulics Expedite Ubiquitous Initiatives,Hydraulics,30981.87,159,3,Alexander PLC,108,True,
+PT0152,PN-ENG-85598,Engine Redefine Clicks-And-Mortar Vortals,Engine,170748.72,197,20,Williams-Blanchard,56,True,36.0
+PT0153,PN-FUS-73300,Fuselage Synthesize One-To-One Metrics,Fuselage,115614.93,77,14,Brown PLC,41,False,
+PT0154,PN-ENG-73471,Engine Cultivate Dot-Com Schemas,Engine,28622.86,106,6,Mays PLC,43,False,
+PT0155,PN-ELE-58567,Electrical Enhance Vertical Niches,Electrical,175572.27,33,9,"Hunter, Clarke and Miller",62,True,24.0
+PT0156,PN-APU-16632,APU Evolve Open-Source Interfaces,APU,44775.82,24,21,"Nguyen, Taylor and Smith",56,True,12.0
+PT0157,PN-ELE-50988,Electrical Transition Wireless Web-Readiness,Electrical,168088.53,184,18,Smith-Page,62,False,24.0
+PT0158,PN-APU-76249,APU Architect Magnetic Systems,APU,4367.1,100,20,Walters and Sons,48,True,
+PT0159,PN-FUS-98148,Fuselage Synthesize Plug-And-Play Convergence,Fuselage,89181.98,167,29,Parker-Day,16,False,12.0
+PT0160,PN-FUS-62855,Fuselage Cultivate Magnetic Web Services,Fuselage,131005.95,195,20,Hernandez Group,74,True,24.0
+PT0161,PN-FUS-69028,Fuselage Grow Viral Portals,Fuselage,13421.01,129,21,Kelly LLC,90,True,12.0
+PT0162,PN-AVI-83116,Avionics Disintermediate Wireless Architectures,Avionics,71023.89,86,8,Campbell-Farrell,80,False,60.0
+PT0163,PN-ENG-53652,Engine Enhance Enterprise Experiences,Engine,8345.54,35,6,Arellano-Phillips,80,True,24.0
+PT0164,PN-ELE-49221,Electrical Disintermediate Granular Users,Electrical,29417.87,157,18,Allen-Holloway,71,False,
+PT0165,PN-FUS-58281,Fuselage Seize Transparent Niches,Fuselage,85585.69,4,15,Mccoy Group,77,False,
+PT0166,PN-ENG-95929,Engine Strategize Vertical E-Markets,Engine,107524.35,67,20,Holmes-Mooney,32,True,60.0
+PT0167,PN-APU-91230,APU Disintermediate Transparent Channels,APU,30858.07,161,28,Cox-Sullivan,90,True,
+PT0168,PN-AVI-51116,Avionics Architect Revolutionary Mindshare,Avionics,34503.02,112,8,Alvarez-Clements,55,False,
+PT0169,PN-ENG-37176,Engine Expedite One-To-One Solutions,Engine,127098.39,132,17,Foster-Watson,70,False,24.0
+PT0170,PN-HYD-54869,Hydraulics Benchmark Cross-Platform Platforms,Hydraulics,82847.5,136,29,"Adams, Lynch and Silva",95,False,60.0
+PT0171,PN-APU-46569,APU Evolve Impactful Partnerships,APU,34769.1,63,11,Espinoza and Sons,101,False,
+PT0172,PN-LAN-51555,Landing Gear Innovate Frictionless Vortals,Landing Gear,124305.14,125,27,"Lee, Werner and Larsen",95,False,24.0
+PT0173,PN-AVI-59767,Avionics Revolutionize Mission-Critical Networks,Avionics,103311.13,139,13,Lee LLC,101,True,24.0
+PT0174,PN-ENG-20358,Engine Strategize One-To-One Initiatives,Engine,51915.94,182,10,Sims-Dalton,98,False,12.0
+PT0175,PN-LAN-83664,Landing Gear Envisioneer Impactful Action-Items,Landing Gear,149065.72,69,21,Mcbride LLC,97,True,12.0
+PT0176,PN-ENG-39579,Engine Deploy User-Centric Infrastructures,Engine,120636.15,135,15,"Garner, Smith and Estrada",45,False,
+PT0177,PN-HYD-30701,Hydraulics Innovate Rich E-Commerce,Hydraulics,1131.62,140,30,Johnson Inc,63,False,
+PT0178,PN-LAN-52096,Landing Gear Grow Wireless Mindshare,Landing Gear,136112.81,73,26,Kent-Blevins,14,True,60.0
+PT0179,PN-ENG-64773,Engine Re-Intermediate Open-Source Experiences,Engine,164398.7,44,3,Lewis-Duncan,110,False,36.0
+PT0180,PN-HYD-14910,Hydraulics Productize E-Business Supply-Chains,Hydraulics,168602.25,74,5,Fuller-Mcintosh,45,False,36.0
+PT0181,PN-APU-76088,APU Grow Ubiquitous Web-Readiness,APU,160088.94,34,5,Stevenson-Chavez,45,True,
+PT0182,PN-APU-34405,APU Revolutionize Customized E-Business,APU,116761.7,183,11,"Goodwin, Stewart and Eaton",75,True,12.0
+PT0183,PN-CAB-52982,Cabin Interior Revolutionize Seamless Models,Cabin Interior,148892.77,131,7,Bryant LLC,20,False,24.0
+PT0184,PN-LAN-40870,Landing Gear Monetize Global E-Commerce,Landing Gear,1428.06,98,12,"Hernandez, Taylor and Edwards",41,True,24.0
+PT0185,PN-ELE-97528,Electrical Revolutionize Rich E-Business,Electrical,124759.79,15,14,Gilbert-Bautista,90,False,
+PT0186,PN-AVI-58174,Avionics Optimize Value-Added Info-Mediaries,Avionics,115040.3,75,6,"Nelson, Terry and Cunningham",64,True,36.0
+PT0187,PN-ELE-71712,Electrical Innovate Cross-Media Info-Mediaries,Electrical,74969.04,140,28,White and Sons,30,True,
+PT0188,PN-AVI-57419,Avionics Extend Sticky Infrastructures,Avionics,94686.1,135,3,"Freeman, Cohen and Martin",109,True,60.0
+PT0189,PN-HYD-67912,Hydraulics Transition B2B Platforms,Hydraulics,29783.78,133,20,Love-Jordan,65,True,60.0
+PT0190,PN-APU-27294,APU Enable Turn-Key Roi,APU,145602.84,116,3,Mendoza-Fuentes,74,False,
+PT0191,PN-FUS-43352,Fuselage Iterate Ubiquitous Convergence,Fuselage,130245.76,101,20,Rhodes LLC,12,True,36.0
+PT0192,PN-ELE-17897,Electrical Architect Vertical Channels,Electrical,126129.2,138,17,Powell LLC,7,False,36.0
+PT0193,PN-HYD-94085,Hydraulics Harness Wireless Methodologies,Hydraulics,138461.18,196,15,"Oconnor, Barajas and Hutchinson",50,False,36.0
+PT0194,PN-CAB-96742,Cabin Interior Repurpose Out-Of-The-Box Applications,Cabin Interior,67741.07,174,29,Jones Inc,47,True,12.0
+PT0195,PN-CAB-39188,Cabin Interior Seize Frictionless Methodologies,Cabin Interior,95285.89,186,11,"Schmitt, Schultz and Robinson",62,False,60.0
+PT0196,PN-CAB-70375,Cabin Interior Engineer Rich E-Business,Cabin Interior,148240.21,63,30,Dawson-Lewis,95,True,
+PT0197,PN-CAB-41544,Cabin Interior Empower Distributed Metrics,Cabin Interior,110763.19,4,3,Johnson PLC,60,True,12.0
+PT0198,PN-ENG-80747,Engine Cultivate Best-Of-Breed Metrics,Engine,72527.31,59,3,Mitchell-Ross,20,False,12.0
+PT0199,PN-ELE-98150,Electrical Transform Plug-And-Play Technologies,Electrical,104029.97,197,30,Clark PLC,21,True,36.0
+PT0200,PN-FUS-87550,Fuselage Facilitate Front-End Deliverables,Fuselage,49672.67,142,22,"Williams, Herrera and Copeland",89,False,60.0
+PT0201,PN-APU-94320,APU Benchmark Interactive Architectures,APU,8629.76,88,12,Foster Inc,92,False,36.0
+PT0202,PN-HYD-80507,Hydraulics Iterate Seamless Markets,Hydraulics,54119.95,47,11,Hull Inc,112,True,36.0
+PT0203,PN-ENG-83044,Engine Deploy Dot-Com Partnerships,Engine,101316.99,106,10,Gould Ltd,29,False,
+PT0204,PN-AVI-22119,Avionics Incentivize Granular Metrics,Avionics,166016.25,94,3,"Fletcher, Johnson and Fernandez",37,False,
+PT0205,PN-ENG-87015,Engine Benchmark B2B Metrics,Engine,157276.96,48,17,Rios PLC,29,False,24.0
+PT0206,PN-ENG-25376,Engine Harness Scalable Portals,Engine,38283.04,48,9,Barnes Group,92,True,36.0
+PT0207,PN-LAN-47101,Landing Gear Innovate Mission-Critical Functionalitie,Landing Gear,99463.86,198,13,King PLC,42,False,24.0
+PT0208,PN-APU-71537,APU Implement Best-Of-Breed Schemas,APU,83987.53,184,8,"Johnson, Weaver and Montgomery",50,False,36.0
+PT0209,PN-ENG-29126,Engine Exploit Killer Channels,Engine,101341.95,56,20,Castro and Sons,77,False,24.0
+PT0210,PN-HYD-59786,Hydraulics Harness Synergistic Relationships,Hydraulics,35475.28,58,19,Vincent Ltd,86,False,24.0
+PT0211,PN-APU-74303,APU Architect B2B Info-Mediaries,APU,173978.19,164,13,"Warren, Allen and Gonzales",24,True,
+PT0212,PN-APU-94123,APU Whiteboard Impactful Vortals,APU,33291.79,138,28,"Cross, Barron and Young",111,True,
+PT0213,PN-ENG-28021,Engine Generate Open-Source Models,Engine,137628.12,105,24,"Robertson, Newton and Shaffer",22,True,12.0
+PT0214,PN-APU-93588,APU Matrix Intuitive Portals,APU,67301.48,158,17,Flores-Kaufman,87,False,
+PT0215,PN-ENG-11553,Engine Visualize Distributed Supply-Chains,Engine,95891.8,105,19,"Mason, Green and Stafford",39,True,60.0
+PT0216,PN-CAB-24026,Cabin Interior Visualize Clicks-And-Mortar Interfaces,Cabin Interior,145148.95,45,9,"Page, Hall and Reed",27,False,24.0
+PT0217,PN-FUS-58896,Fuselage Grow Rich Solutions,Fuselage,143129.55,20,9,Chung-Hoover,92,True,24.0
+PT0218,PN-AVI-14152,Avionics Iterate Dot-Com Vortals,Avionics,117741.68,166,19,"Peterson, Warner and Bailey",63,True,
+PT0219,PN-ENG-75517,Engine Extend Granular Users,Engine,126571.56,21,12,"Cannon, Williams and Dennis",75,True,60.0
+PT0220,PN-ENG-84289,Engine Iterate Scalable Web Services,Engine,,177,4,Davis Inc,90,False,60.0
+PT0221,PN-ENG-12052,Engine Disintermediate Frictionless Supply-Chai,Engine,32447.94,80,26,Hall-Daniel,108,False,
+PT0222,PN-FUS-84277,Fuselage Aggregate Customized Solutions,Fuselage,29408.56,61,30,"Santiago, Proctor and Brooks",72,False,36.0
+PT0223,PN-HYD-20279,Hydraulics Matrix B2C Communities,Hydraulics,142331.56,176,3,Jacobs-Adams,15,False,12.0
+PT0224,PN-AVI-90460,Avionics Implement Transparent Users,Avionics,61438.58,196,26,Cook Group,44,True,
+PT0225,PN-FUS-74304,Fuselage Enable End-To-End Functionalities,Fuselage,141081.96,115,14,Chan PLC,58,True,
+PT0226,PN-CAB-48715,Cabin Interior Synthesize Next-Generation Synergies,Cabin Interior,15607.8,158,4,Walls-Bird,37,True,36.0
+PT0227,PN-HYD-57277,Hydraulics Streamline 24/365 Markets,Hydraulics,,81,11,Davis-Lane,59,False,24.0
+PT0228,PN-AVI-66489,Avionics Drive Enterprise Solutions,Avionics,24024.76,47,15,"Perkins, Robertson and Bryant",16,True,
+PT0229,PN-ELE-88386,Electrical Drive Magnetic E-Services,Electrical,99848.72,152,2,Vargas-Livingston,40,False,36.0
+PT0230,PN-AVI-41816,Avionics Transition Visionary Web Services,Avionics,130526.92,143,14,"Obrien, Hubbard and Michael",24,True,24.0
+PT0231,PN-FUS-18292,Fuselage Cultivate Virtual Info-Mediaries,Fuselage,48459.54,37,11,Wade PLC,64,True,24.0
+PT0232,PN-FUS-91924,Fuselage Mesh Impactful Action-Items,Fuselage,169971.17,184,16,Douglas-Morrow,16,True,24.0
+PT0233,PN-ENG-91289,Engine Extend Cutting-Edge Applications,Engine,170798.46,85,16,Wright PLC,45,False,
+PT0234,PN-HYD-36326,Hydraulics Embrace Bricks-And-Clicks Users,Hydraulics,54218.26,154,14,Wood Ltd,43,False,
+PT0235,PN-APU-41775,APU Incubate Back-End Functionalities,APU,174203.8,200,27,Miller Group,53,False,
+PT0236,PN-LAN-33583,Landing Gear Generate Ubiquitous Supply-Chains,Landing Gear,106682.42,139,25,Wells Ltd,62,True,36.0
+PT0237,PN-FUS-63627,Fuselage Iterate Vertical Web Services,Fuselage,149664.47,17,11,Wilson-Perry,33,False,
+PT0238,PN-HYD-19694,Hydraulics Architect Seamless Experiences,Hydraulics,128799.5,96,20,Mcdonald and Sons,54,False,60.0
+PT0239,PN-ENG-80373,Engine Expedite Back-End Info-Mediaries,Engine,142371.62,92,5,"Carpenter, Ellis and Scott",101,True,
+PT0240,PN-ELE-15806,Electrical Envisioneer Impactful Technologies,Electrical,30107.66,156,22,"Nelson, Frank and King",54,False,36.0
+PT0241,PN-AVI-39098,Avionics Extend User-Centric Methodologies,Avionics,2096.49,66,20,"Smith, Gallagher and Hale",91,True,36.0
+PT0242,PN-ELE-99070,Electrical Implement Distributed E-Markets,Electrical,70525.92,197,13,Webb LLC,6,False,
+PT0243,PN-FUS-25213,Fuselage Target Enterprise Schemas,Fuselage,74992.38,21,13,Wright Ltd,42,False,36.0
+PT0244,PN-LAN-72411,Landing Gear Deliver Turn-Key Architectures,Landing Gear,93896.45,89,16,Wilson-Mayo,43,True,24.0
+PT0245,PN-ENG-12960,Engine Matrix Web-Enabled Platforms,Engine,145871.43,29,23,"Brown, Mcbride and Schmidt",105,True,
+PT0246,PN-LAN-30989,Landing Gear Transition E-Business Channels,Landing Gear,92975.7,141,16,Hodges and Sons,32,False,
+PT0247,PN-HYD-66640,Hydraulics Scale End-To-End Paradigms,Hydraulics,33712.37,168,30,Baker and Sons,28,False,60.0
+PT0248,PN-CAB-38153,Cabin Interior Unleash Customized Infrastructures,Cabin Interior,70112.67,180,27,Bradley LLC,104,True,60.0
+PT0249,PN-AVI-34505,Avionics Transform Seamless Info-Mediaries,Avionics,143950.52,137,5,Gonzales-Little,36,False,60.0
+PT0250,PN-ELE-61451,Electrical Incubate End-To-End Vortals,Electrical,107535.36,156,29,"Wilson, Ortiz and Branch",61,True,
+PT0251,PN-FUS-21108,Fuselage Target Synergistic Solutions,Fuselage,165379.13,151,9,Davis Group,42,True,12.0
+PT0252,PN-ELE-60916,Electrical Repurpose B2C Relationships,Electrical,124879.89,130,14,Johnson-Sutton,57,True,36.0
+PT0253,PN-HYD-47858,Hydraulics Cultivate Interactive Partnerships,Hydraulics,99973.28,125,16,"Macias, Vega and Hendrix",82,True,24.0
+PT0254,PN-ENG-60324,Engine Enhance Interactive E-Tailers,Engine,87332.68,49,17,Burton-Farmer,55,False,36.0
+PT0255,PN-APU-84107,APU Embrace End-To-End Roi,APU,88068.17,21,11,Williams and Sons,7,False,12.0
+PT0256,PN-FUS-84140,Fuselage Enable Sticky Initiatives,Fuselage,30443.97,117,19,Banks-Pierce,68,True,60.0
+PT0257,PN-AVI-58085,Avionics Iterate Innovative Content,Avionics,48366.43,139,26,"Pollard, Moon and Black",95,False,60.0
+PT0258,PN-LAN-95678,Landing Gear Drive Revolutionary Markets,Landing Gear,178161.68,26,3,Gallegos and Sons,60,False,24.0
+PT0259,PN-AVI-41056,Avionics Drive Leading-Edge E-Tailers,Avionics,79144.77,30,24,Smith Inc,47,False,12.0
+PT0260,PN-HYD-17780,Hydraulics Disintermediate Out-Of-The-Box Functiona,Hydraulics,141315.91,52,21,Hughes LLC,71,True,24.0
+PT0261,PN-FUS-77425,Fuselage Extend Granular Systems,Fuselage,52222.12,68,5,"Richardson, Caldwell and Bond",20,False,
+PT0262,PN-FUS-27392,Fuselage Aggregate B2B Networks,Fuselage,156095.16,32,28,"Austin, Kim and Byrd",34,False,36.0
+PT0263,PN-HYD-92288,Hydraulics Engineer Killer Eyeballs,Hydraulics,104021.11,68,22,"Zimmerman, Nelson and Davis",104,True,36.0
+PT0264,PN-FUS-69597,Fuselage Transform Integrated Solutions,Fuselage,125107.71,94,2,Blanchard Group,114,True,
+PT0265,PN-APU-56952,APU Benchmark Sticky Systems,APU,114344.33,178,14,Petty Group,30,False,12.0
+PT0266,PN-APU-54270,APU Embrace Innovative Metrics,APU,48482.92,72,29,"Combs, Roy and Meadows",65,False,
+PT0267,PN-ENG-70238,Engine Deliver Killer Interfaces,Engine,8460.54,160,7,Bender-Hampton,59,False,
+PT0268,PN-CAB-27290,Cabin Interior Repurpose Magnetic Applications,Cabin Interior,36576.81,176,29,Hoffman-Gomez,115,False,
+PT0269,PN-ELE-97098,Electrical Orchestrate Front-End Interfaces,Electrical,45219.99,95,14,Pearson Ltd,83,False,
+PT0270,PN-LAN-22475,Landing Gear Target Bricks-And-Clicks Info-Mediaries,Landing Gear,77375.72,23,6,"Padilla, Graham and Richardson",78,True,60.0
+PT0271,PN-APU-55032,APU Iterate Enterprise Deliverables,APU,1869.79,178,15,"Munoz, Rush and Juarez",91,True,36.0
+PT0272,PN-AVI-23425,Avionics Productize Ubiquitous Synergies,Avionics,41364.65,22,11,Bennett Ltd,20,False,12.0
+PT0273,PN-HYD-11110,Hydraulics Mesh Web-Enabled Communities,Hydraulics,12500.41,144,13,"Davis, Hansen and Kelly",95,True,
+PT0274,PN-HYD-99989,Hydraulics Engineer Extensible Partnerships,Hydraulics,165596.96,157,30,"Kaufman, Brown and Carpenter",15,True,
+PT0275,PN-CAB-51222,Cabin Interior Evolve Next-Generation Paradigms,Cabin Interior,63406.11,109,22,"Wong, Richardson and Clark",13,True,60.0
+PT0276,PN-FUS-13515,Fuselage Exploit Granular Partnerships,Fuselage,140258.74,176,11,"Rivera, Palmer and Stokes",29,True,
+PT0277,PN-CAB-41370,Cabin Interior Brand Strategic Portals,Cabin Interior,53338.46,13,17,Perez-Young,84,True,60.0
+PT0278,PN-ENG-27299,Engine Extend Scalable Bandwidth,Engine,177641.48,81,15,Buck-Melton,49,True,36.0
+PT0279,PN-AVI-11807,Avionics Morph Revolutionary Deliverables,Avionics,,17,3,Lane PLC,104,False,60.0
+PT0280,PN-FUS-64451,Fuselage Redefine Dynamic E-Commerce,Fuselage,113217.01,128,22,Gilmore-Greene,71,True,24.0
+PT0281,PN-AVI-36633,Avionics Envisioneer 24/365 Vortals,Avionics,55921.26,130,12,"Johnson, Wilson and Martinez",53,True,24.0
+PT0282,PN-CAB-17589,Cabin Interior Engage Visionary Platforms,Cabin Interior,131446.52,61,5,Robles-Cardenas,61,True,24.0
+PT0283,PN-HYD-27984,Hydraulics Enable Clicks-And-Mortar Metrics,Hydraulics,21675.85,181,13,Rodriguez Inc,69,False,12.0
+PT0284,PN-ELE-45227,Electrical Brand Revolutionary Partnerships,Electrical,23022.12,199,30,"Anderson, Castro and Gordon",6,False,36.0
+PT0285,PN-FUS-85582,Fuselage Incentivize User-Centric Channels,Fuselage,94388.99,67,18,Rivera-Phillips,49,True,36.0
+PT0286,PN-HYD-23487,Hydraulics Maximize Impactful Functionalities,Hydraulics,66310.26,65,5,Young Inc,32,True,
+PT0287,PN-ENG-57707,Engine Reinvent Holistic Communities,Engine,44170.35,120,29,Lee-Trevino,7,False,12.0
+PT0288,PN-ELE-51934,Electrical Monetize Turn-Key Content,Electrical,44837.72,184,13,"Moreno, Foley and Smith",18,True,12.0
+PT0289,PN-LAN-62550,Landing Gear Extend Dot-Com E-Services,Landing Gear,144819.98,11,11,Harvey Group,102,False,24.0
+PT0290,PN-AVI-58354,Avionics Disintermediate Ubiquitous Systems,Avionics,99645.83,2,11,Oconnor-Clark,97,True,36.0
+PT0291,PN-ELE-35614,Electrical Strategize Killer Systems,Electrical,106586.03,126,27,"Mitchell, Lee and Vega",34,True,
+PT0292,PN-CAB-55406,Cabin Interior Strategize 24/7 Portals,Cabin Interior,4499.06,138,2,Coffey Inc,45,True,
+PT0293,PN-CAB-50306,Cabin Interior Generate Granular Mindshare,Cabin Interior,152851.28,186,9,"Avery, Parker and Calderon",56,False,
+PT0294,PN-HYD-15754,Hydraulics Reinvent 24/365 Web-Readiness,Hydraulics,128155.11,23,18,"Moore, Ellis and Allen",55,False,36.0
+PT0295,PN-AVI-27499,Avionics Evolve Web-Enabled E-Business,Avionics,104622.56,129,20,"Tucker, Castillo and Friedman",75,True,36.0
+PT0296,PN-HYD-51288,Hydraulics Monetize Web-Enabled Bandwidth,Hydraulics,42771.56,66,28,Romero-Burch,97,False,24.0
+PT0297,PN-APU-36569,APU Whiteboard Synergistic Partnerships,APU,49097.67,19,5,"Wolfe, Reid and Roberts",22,True,12.0
+PT0298,PN-APU-25825,APU Envisioneer Impactful Systems,APU,83996.71,104,8,Wallace-Davis,60,False,36.0
+PT0299,PN-FUS-30658,Fuselage Brand Transparent Eyeballs,Fuselage,153476.3,23,24,"Ortiz, Lawson and Russo",92,True,12.0
+PT0300,PN-ELE-42534,Electrical Incubate Mission-Critical Communities,Electrical,26868.62,182,3,Cordova and Sons,89,False,24.0
