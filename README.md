@@ -406,7 +406,7 @@ Open `MRO_Dashboard.pbix` — refresh data if needed.
 
 # POTHUGANTI SIDDAIAH
 - LinkedIn: https://www.linkedin.com/in/pothuganti-siddaiah/
-- GitHub: 
+- GitHub: https://github.com/pothugantisiddaiah0816-cpu
 - Email: pothugantisiddaiah0816@gmail.com
 
 ---
