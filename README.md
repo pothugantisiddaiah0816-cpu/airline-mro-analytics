@@ -409,7 +409,3 @@ Open `MRO_Dashboard.pbix` — refresh data if needed.
 - GitHub: https://github.com/pothugantisiddaiah0816-cpu
 - Email: pothugantisiddaiah0816@gmail.com
 
----
-
-*Built as a portfolio project demonstrating end-to-end data analytics 
-capabilities across SQL, Python, Excel and Power BI.*
